@@ -18,7 +18,7 @@ const Nosotros = () => {
         <h3>MISION</h3>
         <p>Estamos aquí para conectar personas mediante los viajes a tarifas Ultra Bajas.</p>
         <h3>VISION</h3>
-        <p>Nos vemos conectando a millones de personas en Sur América.</p>#5c96cc
+        <p>Nos vemos conectando a millones de personas en Sur América.</p>
       </div>
     </div>
     </>
