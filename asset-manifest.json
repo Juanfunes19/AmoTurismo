@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AmoTurismo/static/css/main.292f24ee.css",
-    "main.js": "/AmoTurismo/static/js/main.dccf5526.js",
+    "main.js": "/AmoTurismo/static/js/main.553deca7.js",
     "static/js/787.cffd28e9.chunk.js": "/AmoTurismo/static/js/787.cffd28e9.chunk.js",
     "static/media/error404.jpg": "/AmoTurismo/static/media/error404.4c2b82cd37badd30254a.jpg",
     "static/media/avion2.jpg": "/AmoTurismo/static/media/avion2.97af5da9825013537a18.jpg",
@@ -10,11 +10,11 @@
     "static/media/logog.png": "/AmoTurismo/static/media/logog.36b0f1e3f2f02fae4d36.png",
     "index.html": "/AmoTurismo/index.html",
     "main.292f24ee.css.map": "/AmoTurismo/static/css/main.292f24ee.css.map",
-    "main.dccf5526.js.map": "/AmoTurismo/static/js/main.dccf5526.js.map",
+    "main.553deca7.js.map": "/AmoTurismo/static/js/main.553deca7.js.map",
     "787.cffd28e9.chunk.js.map": "/AmoTurismo/static/js/787.cffd28e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.292f24ee.css",
-    "static/js/main.dccf5526.js"
+    "static/js/main.553deca7.js"
   ]
 }
