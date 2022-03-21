@@ -1,0 +1,36 @@
+
+
+.fondo-previaje{
+    background-color: #fe8338;
+    height: 92vh;
+}
+.previaje{
+    width: 20em;
+    
+    /* margin-top: 7em; */
+}
+#texto{
+    font-size: 1.5em;
+    padding: 120px 0;
+}
+
+.parteA{
+    background-color: #2e6fcf;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parteA h2{
+    font-weight: 400;
+    font-size: 3em;
+}
+.parteB{
+    background-color: #5c96cc;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parteB p{
+}

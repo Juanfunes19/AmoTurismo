@@ -1,0 +1,22 @@
+.fondoNosotros{
+    background-color: #5c96cc;
+    height: 50vh;
+}
+.titulonosotros{
+    font-weight: 800;
+    font-size: 3em;
+}
+.Nosotros2{
+    background-color: #013a70;
+}
+.Nosotros2 p{
+    color: white;
+}
+.Nosotros2 h3{
+    color: #7db6eb;
+    font-weight: 700;
+}
+.barra{
+    color: rgb(255, 154, 1);
+    font-size: 2em;
+}

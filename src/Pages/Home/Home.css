@@ -1,0 +1,74 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+/* form section  */
+
+
+.container-fluid2{
+    height: 600px;
+    background-image: url("avion2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formulario{
+    padding: 1em;
+}
+
+.card{
+    width: 60%;
+    padding: 1.5em;
+    margin-left: 1rem;
+}
+.ingresa-cuenta{
+    font-size: 1em;
+}
+.titulo-principal{
+    font-weight: 900;
+    color: #4e44d9;
+}
+.parrafo{
+    color: #4e44d9;
+}
+.form-controll{
+    width: 100%;
+}
+.btn-ingresar{
+    background-color:#4e44d9;
+    color: white;
+}
+
+/* SECTION 1 */
+.section-1{
+    background-color: #fe8338;
+}
+.bi{
+    font-size: 2em;
+}
+.section-1 h2{
+    font-weight: 700;
+}
+.section-1 .text-primary{
+    font-weight: 400;
+    color: #4e44d9;
+}
+.navbar-toggler-icon{
+    display: none;
+}
+
+/* SECTION 2 */
+.section-2{
+    background-color: #fe8338;
+}
+.img-section2{
+    height: 15em;
+    
+}
+/* SECTION 3 */
+.section-3{
+    background-color: rgb(233, 233, 233);
+}
+
+.footerr{
+    background-color: rgb(233, 233, 233);
+    color: black;
+}
